@@ -22,10 +22,6 @@ body{
     color: var(--text);
 }
 
-iframe * {
-    background-color: var(--background);
-    color: var(--text);
-}
 button, a{
     all: unset;
     padding: 1%;
