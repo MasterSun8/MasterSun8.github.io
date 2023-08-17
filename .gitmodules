@@ -3,7 +3,7 @@
 	url = https://github.com/MasterSun8/QrScan
 [submodule "Facial-Recognition-in-JS"]
 	path = Facial-Recognition-in-JS
-	url = https://github.com/MasterSun8/Facial-Recognition-in-JS/
+	url = https://github.com/MasterSun8/Facial-Recognition-in-JS
 [submodule "qrdesk"]
 	path = qrdesk
-	url = https://github.com/MasterSun8/qrdesk
+	url = https://github.com/MasterSun8/UniversalQRScanner
