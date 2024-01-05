@@ -7,3 +7,6 @@
 [submodule "UniversalQRScanner"]
 	path = UniversalQRScanner
 	url = https://github.com/MasterSun8/UniversalQRScanner
+[submodule "lfgbingo"]
+	path = lfgbingo
+	url = https://github.com/MasterSun8/lfgbingo.git
