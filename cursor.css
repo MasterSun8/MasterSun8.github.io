@@ -1,0 +1,16 @@
+:root {
+    --circle-size: 2vh;
+}
+
+circle {
+    visibility: hidden;
+    position: fixed;
+    height: var(--circle-size);
+    width: var(--circle-size);
+    border: calc(var(--circle-size)/5) solid var(--accent);
+    border-radius: 100%;
+    top: calc(var(--circle-size)/-2);
+    left: calc(var(--circle-size)/-2);
+    pointer-events: none;
+    background-color: transparent;
+}
